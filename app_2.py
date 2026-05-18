@@ -32,7 +32,7 @@ st.markdown("""
 
 st.title("💧 Predictor de Tarifas de Agua")
 st.markdown("Ingresa los datos para estimar la tarifa de agua (S/. por m³)")
-st.markdown("📓 [Ver cuaderno de código en Google Colab](#)", unsafe_allow_html=True)
+st.markdown("📓 [Ver cuaderno de código en Google Colab](https://drive.google.com/file/d/1PPhlFjL6E-1IZGyb_xjrjM6fGqHApC5B/view?usp=sharing)", unsafe_allow_html=True)
 st.markdown("👤 **Nombre:** Alan Raul Jimenez &nbsp;|&nbsp; **Código ISIL:** 00000")
 st.divider()
 
