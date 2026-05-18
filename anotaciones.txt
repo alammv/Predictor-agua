@@ -1,0 +1,10 @@
+PROMPT utilizado para crear el aplicativo app.py:
+
+"Crea una aplicación en Streamlit para predecir la tarifa de agua en soles por metro cúbico.
+La app debe cargar dos modelos entrenados en sklearn (Random Forest y Regresión Lineal) 
+guardados en formato pkl dentro de una carpeta llamada 'modelos'. 
+El usuario debe poder ingresar los siguientes datos: cargo fijo del prestador, 
+consumo promedio de la localidad, rango inicial y final de consumo, factor de ajuste 
+de localidad, si aplica IGV y la clase de cliente (residencial o no residencial).
+La app debe permitir elegir qué modelo usar y mostrar la predicción de la tarifa.
+Incluir también el nombre del estudiante, código ISIL y un enlace al notebook de Colab."
